@@ -1,11 +1,17 @@
 .contenedor {
-
+  position: absolute;
+  background-color: blueviolet;
 }
 
 .gorrito {
-
+ position: absolute;
+ width: 120px;
+ left: 70px;
+ background-color: pink;
 }
 
 .gato {
-
+  position: relative;
+  top: 60px;
+  background-color: aqua;
 }
