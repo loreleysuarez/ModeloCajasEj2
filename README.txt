@@ -1,0 +1,8 @@
+Me parece haber visto un lindo gatito...
+
+En el index.html brindamos un <div> con dos imágenes adentro. Queremos, usando position, situar el gorrito de navidad justo arriba de la cabeza del gato.
+
+Para eso, debemos:
+
+* A la imagen del gorrito, asignarle un ancho de 120px y ubicarla 70px desde la izquierda de manera absoluta en relación al <div> con clase contenedor.
+* A la imagen del gato, ubicarla a 60px hacia abajo de su posición original.
